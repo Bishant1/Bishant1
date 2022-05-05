@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Bishant1
+- 👋 Hi, I’m @Bishant
+- 
 - 👀 I’m interested in python, web security
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
